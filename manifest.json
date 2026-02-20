@@ -1,0 +1,24 @@
+
+{
+  "name": "KK-SmartScan Neural Scanner",
+  "short_name": "KK-SmartScan",
+  "description": "Professional Business Card Digitizer with Neural AI Extraction",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fcfdff",
+  "theme_color": "#4f46e6",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/1083/1083615.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/1083/1083615.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Remix: KK-SmartScan - Neural Vault",
+  "description": "Enterprise-grade Business Card Digitizer with Neural AI and Google Ecosystem Sync.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
